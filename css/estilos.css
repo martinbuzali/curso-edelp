@@ -1,0 +1,12 @@
+body {
+  font-family: 'Inter', sans-serif!important;
+}
+nav ul li:hover{
+    background-color: #D70005;
+}
+.card i{
+    text-align: center;
+}
+.card h5{
+    text-align: center;
+}
